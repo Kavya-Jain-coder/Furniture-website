@@ -40,16 +40,7 @@ const Banner = ({ data }) => {
             <p data-aos="fade-up" className="text-sm tracking-wide leading-5">
               {data.title4}
             </p>
-            <div data-aos="fade-up" data-aos-offset="0" className="">
-              <a href={data.href}>
-                <button
-                  style={{ color: `${data.bgColor}` }}
-                  className="bg-gray-900 text-white py-2 px-4 rounded-full hover:scale-105 duration-300"
-                >
-                  Shop Now
-                </button>
-              </a>
-            </div>
+            
           </div>
         </div>
       </div>
