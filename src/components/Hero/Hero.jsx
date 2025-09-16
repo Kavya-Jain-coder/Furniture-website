@@ -78,20 +78,7 @@ const Hero = () => {
                     >
                       {data.title2}
                     </h1>
-                    <div
-                      data-aos="fade-up"
-                      data-aos-offset="0"
-                      data-aos-duration="500"
-                      data-aos-delay="300"
-                    >
-                      <a href={data.href}>
-                        <Button
-                          text={"Shop By Category"}
-                          bgColor={"bg-[#f42c37]"}
-                          textColor={"text-white"}
-                        />
-                      </a>
-                    </div>
+                    
                   </div>
                   <div className="order-1 sm:order-2">
                     <div
