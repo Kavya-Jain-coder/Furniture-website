@@ -17,13 +17,7 @@ const Category = () => {
                 <p className="text-4xl xl:text-5xl font-bold opacity-40 mb-2">
                   Recliner
                 </p>
-                <a href="/chairs">
-                  <Button
-                    text="Browse"
-                    bgColor="bg-[#f42c37]"
-                    textColor="text-white"
-                  />
-                </a>
+                
               </div>
             </div>
             <img
@@ -40,13 +34,7 @@ const Category = () => {
                 <p className="text-4xl xl:text-4xl font-bold opacity-50 mb-2">
                   Study Table
                 </p>
-                <a href="/table">
-                  <Button
-                    text="Browse"
-                    bgColor="bg-white"
-                    textColor="text-[#c5d1b5]"
-                  />
-                </a>
+                
               </div>
             </div>
             <img
@@ -66,13 +54,7 @@ const Category = () => {
                 <p className="text-4xl xl:text-5xl font-bold opacity-40 mb-2">
                   Sofa Set
                 </p>
-                <a href="/sofaset">
-                  <Button
-                    text="Browse"
-                    bgColor="bg-white"
-                    textColor="text-[#b8c1d1]"
-                  />
-                </a>
+                
               </div>
             </div>
             <img
