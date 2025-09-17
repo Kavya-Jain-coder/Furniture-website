@@ -138,13 +138,13 @@ const Footer = () => {
                     <p>+91 123456</p>
                   </div>
                   <div className="flex items-center gap-3 mt-[2rem]">
-                    <a href="/#">
+                    <a href="https://discord.com">
                       <FaDiscord className="text-4xl hover:text-[#f42c37] duration-300 " />
                     </a>
-                    <a href="/#">
+                    <a href="https://www.facebook.com">
                       <FaFacebookF className="text-4xl hover:text-[#f42c37] duration-300 " />
                     </a>
-                    <a href="/#">
+                    <a href="https://www.linkedin.com/in/kavya-jain-9b062a323">
                       <FaLinkedinIn className="text-4xl hover:text-[#f42c37] duration-300 " />
                     </a>
                   </div>
